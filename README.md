@@ -1,5 +1,5 @@
 👋 Hi, I’m Angelo Gulisano.I'm in love with MS technologies. Focus on M365, SharePoint, Power Platform, SPFX, React and TypeScript, but I like also C#, SQL Server, Blazor, Asp.net MVC all around Microsoft world.
-I'm Microsoft Certified and MCT since 2 years, and I'm a tech speaker.
+I'm Microsoft Certified and MCT since 3 years, and I'm a tech speaker.
 
 My blog: https://angelogulisano.com
 
