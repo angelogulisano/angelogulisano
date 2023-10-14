@@ -17,7 +17,7 @@ My blog: https://angelogulisano.com
 My linktr profile: https://linktr.ee/angelogulisano
 
 
-## Most view blog posts
+## Most viewed blog posts
 
 * [Power Automate - Restore deleted flows](https://angelogulisano.com/power-automate-restore-deleted-flows/)
 * [Power Automate - SharePoint get items filter](https://angelogulisano.com/power-automate-sharepoint-get-items-filter/)
