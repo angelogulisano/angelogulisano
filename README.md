@@ -19,6 +19,7 @@ My linktr profile: https://linktr.ee/angelogulisano
 
 ## Most viewed blog posts
 
+* [Power Apps – ChatGPT Integration](https://angelogulisano.com/power-apps-chatgpt-integration/))
 * [Power Automate - Restore deleted flows](https://angelogulisano.com/power-automate-restore-deleted-flows/)
 * [Power Automate - SharePoint get items filter](https://angelogulisano.com/power-automate-sharepoint-get-items-filter/)
 * [Power Apps - Creator Kit – Introduction](https://angelogulisano.com/creator-kit-introduction/)
