@@ -21,10 +21,10 @@ My linktr profile: https://linktr.ee/angelogulisano
 
 ## Most viewed blog posts
 
-* [Power Apps – ChatGPT Integration](https://angelogulisano.com/power-apps-chatgpt-integration/)
-* [Power Automate - Restore deleted flows](https://angelogulisano.com/power-automate-restore-deleted-flows/)
-* [Power Automate - SharePoint get items filter](https://angelogulisano.com/power-automate-sharepoint-get-items-filter/)
-* [Power Apps - Creator Kit – Introduction](https://angelogulisano.com/creator-kit-introduction/)
-* [Power Apps - Improve performance](https://angelogulisano.com/power-apps-improve-performance/)
-* [SharePoint - JSON Custom form formatting](https://angelogulisano.com/spo-json-form-custom-formatting/)
-* [Power Apps - PDF Function](https://angelogulisano.com/power-apps-pdf-function/)
+* [Power Apps – ChatGPT Integration](https://angelogulisano.com/blog/power-apps-chatgpt-integration/)
+* [Power Automate - Restore deleted flows](https://angelogulisano.com/blog/power-automate-restore-deleted-flows/)
+* [Power Automate - SharePoint get items filter](https://angelogulisano.com/blog/power-automate-sharepoint-get-items-filter/)
+* [Power Apps - Creator Kit – Introduction](https://angelogulisano.com/blog/creator-kit-introduction/)
+* [Power Apps - Improve performance](https://angelogulisano.com/blog/power-apps-improve-performance/)
+* [SharePoint - JSON Custom form formatting](https://angelogulisano.com/blog/spo-json-form-custom-formatting/)
+* [Power Apps - PDF Function](https://angelogulisano.com/blog/power-apps-pdf-function/)
