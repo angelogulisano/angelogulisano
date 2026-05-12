@@ -1,10 +1,8 @@
 👋 My name is Angelo Gulisano and I am a Microsoft MVP for Business Apps, an MCT and a Speaker.
 
-![Angelo](https://angelogulisano.com/wp-content/uploads/2023/01/angelo-elegante-small.png)
+![ULI-2007-02887](contents/ULI-2007-02887.jpg)
 
-Currently, I work as self-employed consultant and my primarily focusing is on Power Platform, SharePoint, and Microsoft 365.
-
-I am a professional with over 15 years of experience in the IT industry. During my last job as an employee of a multinational company, I was responsible for the team that developed solutions primarily based on Power Platform and SharePoint, developing solutions in compliance with ISO9001 certification. I obtained the Agile Scrum Master certification and became an MCT. I delivered and organized courses related to the technologies used by my team.
+I’m Angelo Gulisano, a Microsoft MVP for Business Applications, MCT, and independent consultant with 18+ years of enterprise experience. I specialize in Power Platform, SharePoint, Microsoft 365, and full‑stack development, helping organizations worldwide accelerate digital transformation. With a background in .NET, Node, SQL Server and cloud technologies, I design and deliver end‑to‑end solutions that drive measurable business value. I’m passionate about technology, music, and travel, and I enjoy sharing knowledge through speaking engagements, courses, and blog posts.
 
 Previously, I worked as a software developer with skills in Asp.net, SQL Server, .net Framework, and especially SharePoint, a platform that I am very passionate about and have been working with since 2007.
 
